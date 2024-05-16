@@ -1,6 +1,6 @@
 # Bombay-Software-Assignment
 
-###Image Classification Web Application
+Image Classification Web Application
 This is a Flask web application for image classification using a trained Support Vector Machine (SVM) model.
 
 Installation
